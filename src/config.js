@@ -7,11 +7,11 @@ module.exports = {
 
   nodes: [
     {
-      host: "",
-      password: "",
+      host: "128.199.151.87",
+      password: "rifki",
       port: 2333,
       identifier: "",
-      secure: true,
+      secure: false,
       reconnectTimeout: 300000,
       reconnectTries: 100,
     },
